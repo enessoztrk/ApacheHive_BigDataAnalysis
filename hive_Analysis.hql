@@ -99,9 +99,7 @@ last_order_date_new,
 store_type
 from test1.flo_transactions ;
 
-
 describe test1.flo_transactions_orc;
-
 
 SELECT * FROM test1.flo_transactions_orc LIMIT 10;
 
