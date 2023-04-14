@@ -2,10 +2,11 @@
 <html>
 <head>
   
-# Data Analysis with Apache Hive</title>
+# Data Analysis with Apache Hive
 </head>
   
 <body>
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*KjFA9onVNy_qam9C9n0GsQ.png" />
 <p>Apache Hive is an open source data storage and query tool for analyzing large data sets. Hive has been developed as part of the Hadoop ecosystem and can handle data located on the Hadoop Distributed File System (HDFS). Since Hive has a SQL-like query language, even data analysts who do not know SQL can easily query large data sets using Hive.</p>
 
 <p>Hive allows users to run their queries on Hadoop. These queries are run in parallel with the MapReduce engine. It is also possible to query, filter, aggregate and group data using a SQL-like query language called HiveQL. Hive can also be integrated with tools such as ODBC and JDBC that can connect to many data sources.
