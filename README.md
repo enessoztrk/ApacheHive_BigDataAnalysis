@@ -2,7 +2,7 @@
 <html>
 <head>
   
-<title>Data Analysis with Apache Hive</title>
+# Data Analysis with Apache Hive</title>
 </head>
   
 <body>
