@@ -18,4 +18,5 @@
 <p>All in all, Data Analysis with Apache Hive is a useful tool for querying and analyzing large datasets. Hive was developed as part of the Hadoop ecosystem and is optimized for working with large datasets. It is also possible to query, filter, aggregate and group data using a SQL-like query language.
 </body>
 </html>
+
 https://enessoztrk.medium.com/apachehive-verianalizi-8b50fbc82943
