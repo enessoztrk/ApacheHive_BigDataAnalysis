@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 <title>Data Analysis with Apache Hive</title>
 </head>
+  
 <body>
 <p>Apache Hive is an open source data storage and query tool for analyzing large data sets. Hive has been developed as part of the Hadoop ecosystem and can handle data located on the Hadoop Distributed File System (HDFS). Since Hive has a SQL-like query language, even data analysts who do not know SQL can easily query large data sets using Hive.</p>
 
